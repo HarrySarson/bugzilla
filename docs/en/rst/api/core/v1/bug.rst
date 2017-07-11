@@ -77,13 +77,12 @@ name              type   description
              "real_name": "Foo Bar",
              "name": "foo@bar.com",
              "email": "foo@bar.com"
-           },
+           }
          ],
          "priority": "P1",
          "is_confirmed": true,
          "creation_time": "2000-07-25T13:50:04Z",
          "assigned_to": "user@bugzilla.org",
-         "flags": [],
          "alias": [],
          "cf_large_text": "",
          "groups": [],
@@ -95,7 +94,7 @@ name              type   description
          "cf_qa_list_4": "---",
          "keywords": [],
          "cc": [
-           "foo@bar.com",
+           "foo@bar.com"
          ],
          "see_also": [],
          "deadline": null,
