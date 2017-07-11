@@ -77,7 +77,7 @@ name              type   description
              "real_name": "Foo Bar",
              "name": "foo@bar.com",
              "email": "foo@bar.com"
-           },
+           }
          ],
          "priority": "P1",
          "is_confirmed": true,
